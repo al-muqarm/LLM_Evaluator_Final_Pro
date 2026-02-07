@@ -4,10 +4,10 @@
 This project is part of a Ph.D. research study focused on optimizing the quality of service (QoS) and experience (QoE) for Large Language Model (LLM) agents in geo-distributed cloud systems. The evaluator tool measures performance metrics across various chatbots (ChatGPT, Gemini, Copilot, and DeepSeek) to determine the best service provider based on real-time network conditions and academic accuracy.
 
  Main Features
-* **Application-Layer QoS Monitoring**: Measures TTFB, Jitter, and Stability via secure TCP/TLS handshake probes.
-* **Real-Time QoE Analytics: Utilizes Playwright and MutationObserver for high-granularity tracking of TTFT (Time to First Token) and E2E delay.
-* **Context-Aware Weighting: Allows users to adjust preference weights (λ QoS, λ QoE, λ Academic) for personalized recommendations.
-* **Secure Data Sync**: Automatically synchronizes performance metrics to a research cloud (Google Sheets) for statistical analysis.
+* Application-Layer QoS Monitoring**: Measures TTFB, Jitter, and Stability via secure TCP/TLS handshake probes.
+* Real-Time QoE Analytics: Utilizes Playwright and MutationObserver for high-granularity tracking of TTFT (Time to First Token) and E2E delay.
+* Context-Aware Weighting: Allows users to adjust preference weights (λ QoS, λ QoE, λ Academic) for personalized recommendations.
+* Secure Data Sync: Automatically synchronizes performance metrics to a research cloud (Google Sheets) for statistical analysis.
 
 How to Use
 1. Navigate to the [Releases](https://github.com/al-muqarm/llmevaluator/releases)** section of this repository.
@@ -23,3 +23,4 @@ Bot Detection**: The tool uses a native Chrome channel to minimize CAPTCHA chall
 
  Author
 Abbas M. Ali Al-Muqarm-Ph.D. in Computer Science-Faculty Member at the University of Kufa, Najaf, Iraq* [ResearchGate Profile](https://www.researchgate.net/profile/Abbas-M-Ali-Al-Muqarm-2)
+
