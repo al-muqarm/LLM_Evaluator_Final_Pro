@@ -1,5 +1,16 @@
 # Multi-Objective AI Service Quality Optimization (Native AI Wireless Networks)
 
+🛡️ Security & Verification
+This tool is an executable (.exe) provided for ease of use in our scientific research. To ensure file integrity and safety:
+
+SHA-256 Checksum: 2da80feaea6b71a640b77dcd919291d1a8ae61917b7ded797842cd86726ae728
+
+Transparency: Developed by Abbas M. Ali Al-Muqarm, Faculty Member at the University of Kufa, Iraq.
+
+Data Privacy: Only anonymous network metrics (latency, jitter) are collected for statistical analysis via Google Forms.
+ 
+
+ 
  Research Context
 This project is part of a Ph.D. research study focused on optimizing the quality of service (QoS) and experience (QoE) for Large Language Model (LLM) agents in geo-distributed cloud systems. The evaluator tool measures performance metrics across various chatbots (ChatGPT, Gemini, Copilot, and DeepSeek) to determine the best service provider based on real-time network conditions and academic accuracy.
 
@@ -23,4 +34,5 @@ Bot Detection**: The tool uses a native Chrome channel to minimize CAPTCHA chall
 
  Author
 Abbas M. Ali Al-Muqarm-Ph.D. in Computer Science-Faculty Member at the University of Kufa, Najaf, Iraq* [ResearchGate Profile](https://www.researchgate.net/profile/Abbas-M-Ali-Al-Muqarm-2)
+
 
